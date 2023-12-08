@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7583d34.css",
+    "main.js": "/static/js/main.e58ea31f.js",
+    "static/media/los-angles.png": "/static/media/los-angles.e95f71a376425c4d1a5c.png",
+    "static/media/newyork.png": "/static/media/newyork.6bdf88eb2f9931966875.png",
+    "static/media/washington-dc.png": "/static/media/washington-dc.80ef113eb312d65b88ae.png",
+    "index.html": "/index.html",
+    "main.d7583d34.css.map": "/static/css/main.d7583d34.css.map",
+    "main.e58ea31f.js.map": "/static/js/main.e58ea31f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7583d34.css",
+    "static/js/main.e58ea31f.js"
+  ]
+}
